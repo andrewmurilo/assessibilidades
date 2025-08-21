@@ -59,7 +59,7 @@ li[aria-hidden='false'] { display:block ; }
 .tituloPadrao {
   font-family: 'Montserrat', serif;
   margin-bottom: 1em;
-  color: #4F4C4C;
+  color: #363636;
   text-align: center;
   text-transform: uppercase;
 }
