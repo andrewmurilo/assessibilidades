@@ -12,7 +12,7 @@
   width: 20px;
   height: 20px;
   text-align: center;
-  background-color: #363636;
+  background-color: #fff;
   transform: translate(-7px, -3px);
   border: 1px solid #363636;
   color: transparent;
@@ -22,7 +22,7 @@
 
 .contatoCampo-checkbox:checked + .contatoCampo-label:before {
   content: 'x';
-  color: #525252;
+  color: #fff;
   background-image: radial-gradient(circle, #2de7af, #2fedae);
 }
 

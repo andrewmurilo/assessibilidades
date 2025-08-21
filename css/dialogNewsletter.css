@@ -107,7 +107,7 @@
 
 .dialogNewsletter-fechar:before {
   content: 'x';
-  color: #666;
+  color: #fff;
   width: 32px;
   height: 32px;
   display: block;
